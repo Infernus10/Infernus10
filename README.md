@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy Bruno Leonardo Parra Fernández
 
-<!--
-**Infernus10/Infernus10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Leonardo%20Parra%20Fernandez-blue?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/bruno-leonardo-parra-fernandez-851237144/)
 
-Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/-brunoleonardo0045@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:brunoleonardo0045@gmail.com)](mailto:brunoleonardo0045@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram Badge](https://img.shields.io/badge/-Bruno%20Leonardo%20Parra%20Fernandez-blue?style=social&logo=Instagram&logoColor=orange)](https://www.instagram.com/leo_fdzzz/)
+
+Soy un desarrollador full stack de Morelia, Michoacán, con enfoque en soluciones tecnológicas que tienen impacto real. Actualmente estudio Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Morelia (7° semestre), y disfruto construir desde sistemas web inteligentes hasta prototipos que combinan hardware, IA y diseño funcional.
+
+---
+
+## 🚀 Qué hago
+
+- 🧠 Lidero **AVOTEX**, un proyecto con inteligencia artificial para detectar enfermedades en aguacates. Ganamos el **1er lugar estatal en INNOVA TEC**.
+- ⚙️ Fundé **Deli T**, una solución basada en NFC y filamentos biodegradables para máquinas 3D. Alcanzamos el **5° lugar nacional** y participamos en **ENACTUS**.
+- 💻 Desarrollo frontend en una startup de software a medida, enfocándome en diseño funcional y experiencia de usuario.
+- 🔐 Certificado en ciberseguridad por **EC-Council Learning**, con experiencia práctica en laboratorios y máquinas virtuales.
+
+
+---
+
+## 🧰 Tecnologías y herramientas
+
+```bash
+💡 Frontend: HTML · CSS · JavaScript · Figma
+🧠 Backend: Python · TensorFlow · APIs REST
+🧪 Otros: Git · Linux · VirtualBox · NFC · impresión 3D
+🌐 Idiomas: Español (nativo), Inglés (B2), Portugués (A2)
+
+
+```
+## GitHub Stats 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Infernus10)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Infernus10&layout=compact)
