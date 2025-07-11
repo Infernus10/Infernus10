@@ -31,5 +31,5 @@ Soy un desarrollador full stack de Morelia, Michoacán, con enfoque en solucione
 
 ```
 ## GitHub Stats 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Infernus10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Infernus10)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Infernus10&layout=compact)
