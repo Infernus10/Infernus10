@@ -6,15 +6,17 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Bruno%20Leonardo%20Parra%20Fernandez-blue?style=social&logo=Instagram&logoColor=orange)](https://www.instagram.com/leo_fdzzz/)
 
-Soy un desarrollador full stack de Morelia, Michoacán, con enfoque en soluciones tecnológicas que tienen impacto real. Actualmente estudio Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Morelia (7° semestre), y disfruto construir desde sistemas web inteligentes hasta prototipos que combinan hardware, IA y diseño funcional.
+Soy un desarrollador full stack de Morelia, Michoacán, con enfoque en soluciones tecnológicas que tienen impacto real. Actualmente estudio Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Morelia (8° semestre), y disfruto construir desde sistemas web inteligentes hasta prototipos que combinan hardware, IA y diseño funcional.
 
 ---
 
 ## 🚀 Qué hago
 
-- 🧠 Lidero **AVOTEX**, un proyecto con inteligencia artificial para detectar enfermedades en aguacates. Ganamos el **1er lugar estatal en INNOVA TEC**.
+- 🧠 Lidero **AVOTEX**, un proyecto con inteligencia artificial para detectar enfermedades en aguacates. Ganamos el **1er lugar estatal en INNOVA TEC donde posteriormente llegamos al NACIONAL**.
 - ⚙️ Fundé **Deli T**, una solución basada en NFC y filamentos biodegradables para máquinas 3D. Alcanzamos el **5° lugar nacional** y participamos en **ENACTUS**.
 - 💻 Desarrollo frontend en una startup de software a medida, enfocándome en diseño funcional y experiencia de usuario.
+- 🧠 Con VEX creamos sistemas de ERP Y POS para bodegas de central de abastos
+- 🌐 Con VEX conseguimos un proyecto de desarrollo para la empresa ALL IN YOUR MIND YUC desarrollando un sistema completo de interacción entre administración y el ususario especializado para desportistas 
 - 🔐 Certificado en ciberseguridad por **EC-Council Learning**, con experiencia práctica en laboratorios y máquinas virtuales.
 
 
