@@ -16,7 +16,6 @@ Soy un desarrollador full stack de Morelia, Michoacán, con enfoque en solucione
 - ⚙️ Fundé **Deli T**, una solución basada en NFC y filamentos biodegradables para máquinas 3D. Alcanzamos el **5° lugar nacional** y participamos en **ENACTUS**.
 - 💻 Desarrollo frontend en una startup de software a medida, enfocándome en diseño funcional y experiencia de usuario.
 - 🧠 Con VEX creamos sistemas de ERP Y POS para bodegas de central de abastos
-- 🌐 Con VEX conseguimos un proyecto de desarrollo para la empresa ALL IN YOUR MIND YUC desarrollando un sistema completo de interacción entre administración y el ususario especializado para desportistas 
 - 🔐 Certificado en ciberseguridad por **EC-Council Learning**, con experiencia práctica en laboratorios y máquinas virtuales.
 
 
