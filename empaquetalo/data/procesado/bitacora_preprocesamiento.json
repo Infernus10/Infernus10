@@ -1,0 +1,18 @@
+{
+  "filas_crudas": 5262,
+  "duplicados_eliminados": 62,
+  "variantes_clima_antes": 16,
+  "variantes_clima_despues": 4,
+  "eliminados_sin_peso_o_clima": 71,
+  "eliminados_peso_invalido": 20,
+  "largo_corregido_mm_a_cm": 31,
+  "viento_imputado": 127,
+  "filas_limpias": 5109,
+  "entrenamiento": 4087,
+  "prueba": 1022,
+  "clases": {
+    "carro/camion": 2283,
+    "moto": 1986,
+    "dron": 840
+  }
+}
